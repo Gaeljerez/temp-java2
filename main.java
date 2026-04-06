@@ -9,8 +9,8 @@ public class main {
 
         int edad;
 
-        System.out.println("Ingrese su edad: ");
-        edad =sc.nextInt();
+        //System.out.println("Ingrese su edad: ");
+        edad = Integer.parseInt(JOptionPane.showInputDialog("Ingresa la edad"));  
 
         if(edad >= 18){
             JOptionPane.showMessageDialog(null, "es mayor de edad");
