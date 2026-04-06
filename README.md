@@ -1,0 +1,5 @@
+## APLICACION CON JAVA
+
+ PARA EJECUTAR USA EL COMANDO
+
+```java main.java ```
